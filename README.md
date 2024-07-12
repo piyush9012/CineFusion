@@ -20,4 +20,4 @@ This section contains the details about the movies.
 
 # Demonstration
 
-https://github.com/user-attachments/assets/622ba9ee-0bbc-4fba-ab08-5be929d72c4b
+https://github.com/user-attachments/assets/499ff2c6-92ae-4c9d-9d03-eef663c73b68
