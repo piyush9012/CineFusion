@@ -2,8 +2,7 @@
 
 ## Home
 
-![Screenshot 2024-07-12 170455](https://github.com/user-attachments/assets/62471bb2-0b80-4b8c-bbe9-5e181d3c6f20)
-
+![Screenshot 2024-07-12 170611](https://github.com/user-attachments/assets/f3a68c29-877d-4289-b850-6f7568d1fc00)
 
 The screenshot displays home page of the project.
 
