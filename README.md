@@ -1,4 +1,7 @@
 # Ultimate Movie Explorer
+
+https://github.com/user-attachments/assets/622ba9ee-0bbc-4fba-ab08-5be929d72c4b
+
 ## Home
 
 ![Screenshot 2024-07-12 170611](https://github.com/user-attachments/assets/f3a68c29-877d-4289-b850-6f7568d1fc00)
