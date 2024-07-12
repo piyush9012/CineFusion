@@ -14,6 +14,6 @@ Here is the list of Popular movies.
 
 ## Details
 
-![Screenshot 2024-07-12 164112](https://github.com/user-attachments/assets/f5e66de1-7934-4eca-81b6-c0938004808c)
+![Screenshot 2024-07-12 165945](https://github.com/user-attachments/assets/d05add22-e570-45d6-bb19-d76a7d33475b)
 
 This section contains the details about the movies.
