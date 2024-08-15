@@ -1,4 +1,4 @@
-# Ultimate Movie Explorer
+# CineFusion
 
 ## Home Page
 
